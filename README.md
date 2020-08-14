@@ -34,5 +34,7 @@ THEN I am presented with the last searched city forecast
 You are required to submit the following for review:
 
 * The URL of the deployed application.
+https://tpoppp77.github.io/weather-dashboard/.
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+https://github.com/Tpoppp77/weather-dashboard
